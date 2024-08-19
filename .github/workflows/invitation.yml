@@ -1,5 +1,8 @@
 name: Automate Invitation
 
+permissions:
+  issues: write
+
 on:
   issues:
     types: [labeled]
