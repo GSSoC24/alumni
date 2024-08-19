@@ -17,20 +17,6 @@ jobs:
             exit 0
           fi
 
-      - name: Close Original Issue in Support Repository
-        if: ${{ steps.check_label.outcome == 'success' }}
-        uses: actions/github-script@v5
-        with:
-          github-token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          script: |
-            const issue = context.payload.issue;
-            await github.rest.issues.update({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: issue.number,
-              state: 'closed'
-            });
-
       - name: Invite on Label
         if: ${{ steps.check_label.outcome == 'success' }}
         uses: vj-abigo/invite-on-label@v1.2
