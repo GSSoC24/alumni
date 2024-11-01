@@ -14,7 +14,7 @@
 <a href="https://github.com/GSSoC24/alumni/blob/master/LICENSE"><img src="https://img.shields.io/github/license/GSSoC24/Hack-Web3Conf?color=2b9348" alt="License Badge"/></a>
 [![](https://visitcount.itsvg.in/api?id=gssoc-alumni&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-Welcome to Girlscript GSSoC24 Alumni ! This repository is dedicated to all things Alumni-related and will be updated periodically 😄. 
+Welcome to Girlscript GSSoC24 Alumni ! <br>This repository is dedicated to all things Alumni-related and will be updated periodically 😄. 
 </div>
 
 
