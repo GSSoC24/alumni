@@ -25,7 +25,7 @@ Until we have an official Alumni program set up, this repository serves as a hub
 Feel free to contribute your own editions!
 
 ## Thank You
-A big thank you for being part of Girlscript GSSoC24 . We're incredibly grateful for all the time and effort you've dedicated to this program. 💖
+A big thank you for being part of Girlscript GSSoC. We're incredibly grateful for all the time and effort you've dedicated to this program. 💖
 
 ## Stay Connected
 Please stick around on Slack once in a while 😄. 
